@@ -1,0 +1,24 @@
+2023-02-19 16:20:40 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Ошибка преобразования данных при конвертации "Misha"
+Data conversion error converting "Misha"; SQL statement:
+ update CLIENT set name = ? where id = ? [22018-214]
+2023-02-19 16:23:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Ошибка преобразования данных при конвертации "Misha"
+Data conversion error converting "Misha"; SQL statement:
+ update client set name = ? where id = ? [22018-214]
+2023-02-19 16:24:20 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Ошибка преобразования данных при конвертации "Misha"
+Data conversion error converting "Misha"; SQL statement:
+ update client set name = ? where id = ? [22018-214]
+2023-02-19 16:25:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Ошибка преобразования данных при конвертации "Misha"
+Data conversion error converting "Misha"; SQL statement:
+ update client set name = ? where id = ? [22018-214]
+2023-02-19 16:26:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Ошибка преобразования данных при конвертации "Misha"
+Data conversion error converting "Misha"; SQL statement:
+ update client set name = ? where id = ? [22018-214]
+2023-02-19 16:31:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Ошибка преобразования данных при конвертации "Misha"
+Data conversion error converting "Misha"; SQL statement:
+ update client set name = ? where id = ? [22018-214]
